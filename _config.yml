@@ -1,6 +1,9 @@
 title: Malladi Niharika
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+logo: /assets/img/dummy_1.jpg
+description: 
+<p align="center>
+<a href="pdf/resume.pdf">Resume</a>
+<a href="https://www.linkedin.com/in/niharika-malladi-9b647821b/">Linkedin</a>
+<a href="https://github.com/niharikamalladi">GitHub</a>
+</p>
 theme: jekyll-theme-minimal
